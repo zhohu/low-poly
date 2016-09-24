@@ -8,3 +8,5 @@ low poly artistic style by Matlab
 ![](https://raw.githubusercontent.com/zhohu/low-poly/master/src/4.jpg)
 ![](https://raw.githubusercontent.com/zhohu/low-poly/master/src/5.jpg)
 ![](https://raw.githubusercontent.com/zhohu/low-poly/master/src/6.jpg)
+
+Suggestions are welcomed to huzl.hit@gmail.com
